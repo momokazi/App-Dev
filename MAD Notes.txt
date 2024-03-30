@@ -1,0 +1,7 @@
+2 types of widgets
+
+Stateless widget
+Stateful widget
+
+app bar 
+body
